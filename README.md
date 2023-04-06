@@ -1,1 +1,1 @@
-# I need sponsor for developing GPT-5.
+# GPT=5 developer
